@@ -11,7 +11,7 @@ This generator works by "reverse-solving" the math. Given a target number (e.g.,
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/ast-expr-gen.git
+    git clone https://github.com/saran-gangster/ast-expr-gen.git
     cd ast-expr-gen
     ```
 
